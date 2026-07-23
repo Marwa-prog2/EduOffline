@@ -1,0 +1,37 @@
+# EduOffline Smart - Software Requirements Specification (SRS)
+
+## 1. Introduction
+
+### Purpose
+EduOffline Smart is a mobile application that allows students living in areas with limited or no internet access to continue learning offline.
+
+### Target Users
+- Primary school students
+- Middle school students
+- High school students
+- Teachers
+- NGOs
+- Educational organizations
+
+## 2. Functional Requirements
+
+The application shall allow users to:
+
+- Create an account
+- Log in
+- Download courses
+- Access downloaded courses offline
+- Watch educational videos offline
+- Read PDF lessons
+- Complete quizzes
+- Track learning progress
+- Synchronize data automatically when internet is available
+
+## 3. Non-Functional Requirements
+
+- Fast performance
+- Secure authentication
+- Offline-first architecture
+- Data encryption
+- Easy-to-use interface
+- Multi-language support
